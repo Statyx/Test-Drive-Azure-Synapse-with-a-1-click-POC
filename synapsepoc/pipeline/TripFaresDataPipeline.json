@@ -291,7 +291,7 @@
 			},
 			"SQLLoginUsername": {
 				"type": "string",
-				"defaultValue": "masteruser"
+				"defaultValue": "cdroinat@microsoft.com"
 			},
 			"KeyVaultName": {
 				"type": "string",
